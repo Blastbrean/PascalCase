@@ -1,7 +1,7 @@
 pcall(function()
 	-- Script to PlaceId table
 	local PlaceIdToScriptTable = {
-		["10138901829"] = "https://raw.githubusercontent.com/retarded-person/PascalCase-ddev/main/Compiler/Output.lua",
+		["10371908957"] = "https://raw.githubusercontent.com/retarded-person/PascalCase-ddev/main/Compiler/Output.lua",
 	}
 
 	-- Attempt to get a URL to load from with our PlaceId...
