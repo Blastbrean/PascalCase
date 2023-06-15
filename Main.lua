@@ -12,4 +12,4 @@ pcall(function()
 
 	-- Load script...
 	loadstring(game:HttpGet(ScriptString))()
-end, print)
+end)
