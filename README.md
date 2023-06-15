@@ -1,3 +1,5 @@
 # PascalCase
-This is the main-branch...
-This contains the loader to run PascalCase related scripts!
+
+Loader for executing PascalCase related scripts!
+
+Report issues to our discord server: https://discord.gg/J93MDwH5
