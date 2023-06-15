@@ -4,7 +4,7 @@ local PlaceIdToScriptTable = {
 }
 
 -- Attempt to get a URL to load from with our PlaceId...
-local ScriptString = PlaceIdToScriptTable[game.PlaceId]
+local ScriptString = PlaceIdToScriptTable[tostring(game.PlaceId)]
 if not ScriptString then
 	return warn("PascalCase does not have a script for your current game!")
 end
