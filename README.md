@@ -1,6 +1,6 @@
 # Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/retarded-person/PascalCase/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blastbrean/PascalCase/main/Main.lua"))()
 ```
 
 # PascalCase
