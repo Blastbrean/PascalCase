@@ -5,6 +5,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/retarded-person/Pasca
 
 # PascalCase
 
-Loader for executing PascalCase related scripts!
+<i>Loader for executing PascalCase related scripts!</i>
 
 Report issues to our discord server: https://discord.gg/J93MDwH5
