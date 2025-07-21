@@ -14,4 +14,4 @@ Report issues to our discord server: https://discord.gg/tmyKj4y8U7
 
 [Deepwoken Dev](https://github.com/retarded-person/PascalCase-DDev/tree/main)
 
-[Deepwoken](https://github.com/Blastbrean/PascalCase-dw/tree/main)
+**[Deepwoken]** (privated, it bans.)
