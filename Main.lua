@@ -26,8 +26,8 @@ pcall(function()
 
 	-- Add these to the script table, with our Deepwoken Script as the URL...
 	for Index, PlaceId in next, DeepwokenPlaceIds do
-		PlaceIdToScriptTable[PlaceId] =
-			"https://raw.githubusercontent.com/Blastbrean/PascalCase-dw/main/Compiler/Output.lua"
+		--PlaceIdToScriptTable[PlaceId] =
+		--	"https://raw.githubusercontent.com/Blastbrean/PascalCase-dw/main/Compiler/Output.lua"
 	end
 
 	-- Attempt to get a URL to load from with our PlaceId...
