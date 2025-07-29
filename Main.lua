@@ -1,4 +1,4 @@
-pcall(function()
+ pcall(function()
 	-- Script to PlaceId table
 	local PlaceIdToScriptTable = {
 		[10371908957] = "https://raw.githubusercontent.com/Blastbrean/PascalCase-ddev/main/Compiler/Output.lua",
